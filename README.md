@@ -7,5 +7,7 @@ User can add, update and delete products, customers, categories, users, orders
 Easily check real-time inventory of orders
 
 
-[Watch the video](https://www.youtube.com/watch?v=4ZvLK0xAEjE)
+[Watch the video](https://youtu.be/fo7btnSF4ec)
+
+
 
